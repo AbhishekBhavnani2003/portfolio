@@ -21,6 +21,6 @@ To run this project locally, follow these steps:
 
 ## Links
 - LinkedIn: [Abhishek Bhavnani](https://www.linkedin.com/in/abhishek-bhavnani/)
-- Email: [abhishekbhavnani2003@gmail.com](abhishekbhavnani2003@gmail.com)
+- Email: [abhishekbhavnani2003@gmail.com](mailto:abhishekbhavnani2003@gmail.com)
 - Portfolio Website: [abhishekbhavnani.com](https://abhishekbhavnani-portfolio.netlify.app/)
 
