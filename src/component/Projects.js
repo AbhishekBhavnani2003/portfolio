@@ -5,46 +5,62 @@ import Fimg from '../images/flipkart.png'
 import Simg from '../images/sensorysight.png'
 import Timg from '../images/textmagics.png' 
 import Qimg from '../images/techtriva.png'
+import Cimg from '../images/castfit.png'
+import Kimg from '../images/Kalam.png'
 import Footer from './Footer.js' 
 
 const projectsData = [
   {
     id: 1,
+    imgUrl: Cimg,
+    title: "CastFit",
+    description: "Castfit is a dynamic job portal application built using the MERN stack, designed specifically for casting teams. It facilitates seamless job postings, applicant management, and real-time updates, enabling efficient casting operations and streamlined communication between casting professionals and applicants. ",
+    link: "https://github.com/AbhishekBhavnani2003/JobPortal"
+  },
+  {
+    id: 2,
+    imgUrl: Kimg,
+    title: "Kalam",
+    description: "Kalam is a versatile blogging platform that offers enriching content on travel, literature, food, and more, allowing you to join a vibrant community of storytellers and enthusiasts. This web application, built using React.js, Tailwind CSS, Material UI, Node.js, Express.js, and MongoDB, ensures a seamless and engaging user experience. ",
+    link: "https://github.com/AbhishekBhavnani2003/Kalam-frontend"
+  },
+  {
+    id: 3,
     imgUrl: Fimg,
     title: "Flipkart Clone",
     description: "This Flipkart clone, developed as part of my internship, is a full-stack application integrated with a database, encompassing a wide range of functionalities from user authentication (login/signup) to product ordering. ",
     link: "https://github.com/AbhishekBhavnani2003/TWSIP_TASK3_Flipkart-Clone"
   },
   {
-    id: 2,
+    id: 4,
     imgUrl: Bimg,
     title: "BharatBuzz",
     description: "Bharatbuzz is a real-time news web app powered by ReactJS, Bootstrap, and NewsAPI. Offering diverse news categories, in-depth insights, and a seamless user experience across devices. Stay informed with the latest updates effortlessly.",
     link : "https://github.com/AbhishekBhavnani2003/BharatBuzz-Newsapp"
   },
   {
-    id: 3,
+    id: 5,
     imgUrl: Eimg,
     title: "EtherNotes",
     description: "EtherNotes is a MERN-powered cloud notebook built with ReactJS, Bootstrap, NodeJS, ExpressJS, and MongoDB. Enjoy real-time syncing, cross-platform accessibility, and robust security measures. Customize your note-taking experience and reduce eye strain with Dark Mode.",
     link : 'https://github.com/AbhishekBhavnani2003/EtherNotes'
   } ,
   {
-    id: 4,
+    id: 6,
     imgUrl:Qimg,
     title: "TechTriva",
     description: "TechTrivia is a MERN-powered quiz web app covering 9 tech fields. Enjoy real-time syncing, cross-platform accessibility, and a robust security. Customize your quiz experience and track your progress effortlessly.",
     link : "https://github.com/AbhishekBhavnani2003/quiz"
   } ,
   {
-    id: 5,
+    id: 7,
     imgUrl: Simg,
     title: "SensorySight",
     description: "SensorySphere is a Tailwind CSS and ReactJS-driven website redesign for Ksham Innovation Pvt. Ltd.'s Web Development Hackathon. Redesigned with new pages like Testimonials and Product showcases, focusing on frontend development with creativity and functionality. Explore on Github .",
     link : "https://github.com/AbhishekBhavnani2003/ksham-Innovation"
   } , 
   {
-    id: 6,
+    id: 8,
     imgUrl: Timg,
     title: "TextMagics",
     description: " TextMagics is a React-based text conversion app enabling users to transform text into bold, uppercase, lowercase, and more. It provides options to copy and share the resulting text, along with word and character count, and a preview of the converted text. Explore on Github .",
